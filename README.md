@@ -40,7 +40,7 @@ The quiz application consists of:
 
 ![Image](https://github.com/user-attachments/assets/f33f4252-a7fa-4bee-a141-f00cd686c930)
 
-![Image](https://github.com/user-attachments/assets/d95cf22b-5152-4a30-8ee0-cacaca04b9cc)
+
 
 ![Image](https://github.com/user-attachments/assets/96f00533-c4ce-47ac-b912-fcde3df364c1)
 
